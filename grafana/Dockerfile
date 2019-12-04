@@ -1,4 +1,5 @@
 #FROM grafana/grafana:4.4.2
+#fron alpine image
 FROM grafana/grafana:6.4.0-beta1
 
 #ARG SSL_KEYSTORE_PASSWORD
